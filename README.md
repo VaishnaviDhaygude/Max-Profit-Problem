@@ -1,6 +1,6 @@
 # Max Profit Problem
 
-![wtp](file:///C:/Users/Vaishnavi/Downloads/Max%20Profit%20Problem_page-0001.jpg)
+![wtp](file:///D:/Io%20Factory%20Assignments/pdf2png/Max%20Profit%20Problem/Max%20Profit%20Problem-1.png)
 
 # How To Run
 
